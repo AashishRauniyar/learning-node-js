@@ -1,0 +1,13 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aashish rauniyar",
+  "license": "MIT"
+}
